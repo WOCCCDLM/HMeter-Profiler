@@ -1,0 +1,5 @@
+edu\eci\arsw\Application.class
+edu\eci\arsw\controllers\ResourceNotFoundException.class
+edu\eci\arsw\services\ServicesFacade.class
+edu\eci\arsw\controllers\ProductsController.class
+edu\eci\arsw\samples\model\Producto.class
